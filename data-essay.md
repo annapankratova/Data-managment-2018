@@ -1,4 +1,5 @@
-### 1. Название: "Финансирование ФРИИ. Как обеспечивает себя Акселератор?"  
+### 1. Название: 
+### "Финансирование ФРИИ. Как обеспечивает себя Акселератор?"  
 
 ### 2. Цель
 Примеры:      
@@ -23,13 +24,13 @@
 Используемые данные не относятся к категории ограниченного доступа. 
 
 ### 5. Лицензия
-<br><a href='http://opendefinition.org/licenses/cc-by-sa/'> Creative Commons Attribution Share-Alike (cc-by-sa)</a></br>        
-<br>Автор: Кирнозова Ирина Романовна</br>          
-<br>E-mail: i.kirnozova@yandex.ru</br>
-<br>Facebook: https://www.facebook.com/ira.kirnozova</br>
+<a href='http://opendefinition.org/licenses/cc-by-sa/'> Creative Commons Attribution Share-Alike (cc-by-sa)</a><br>        
+Автор: Кирнозова Ирина Романовна<br>          
+E-mail: i.kirnozova@yandex.ru<br>
+Facebook: https://www.facebook.com/ira.kirnozova
 
 ### 6. Инструменты, форматы данных
-Формат данных: PDF, xlsx
+Формат данных: PDF, xlsx <br>
 Инструменты: конвертер PDF to Excel
 
 ### 7. Peer Review
