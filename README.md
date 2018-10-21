@@ -2,7 +2,7 @@
 
 ## Задание №1
 
-Поиск открытых данных.
+Поиск открытых данных./t
 Тема: "Финансирование ФРИИ. Как обеспечивает себя Акселератор?"
 Ссылка: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834
 
