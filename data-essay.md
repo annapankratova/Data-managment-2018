@@ -25,7 +25,7 @@
 
 ### 5. Лицензия
 <a href='http://opendefinition.org/licenses/cc-by-sa/'> Creative Commons Attribution Share-Alike (cc-by-sa)</a>        
-Автор: Кирнозова Ирина Романовна<br>          
+Автор: Кирнозова Ирина Романовна        
 E-mail: i.kirnozova@yandex.ru<br>
 Facebook: https://www.facebook.com/ira.kirnozova
 
@@ -38,5 +38,5 @@ Facebook: https://www.facebook.com/ira.kirnozova
 
 ### Ссылки:
 1. ГОСТ: Система стандартов по информации, библиотечному и издательскому делу. Информационно-библиотечная деятельность, библиография. Термины и определения. 
-2. Понятие информации [Электронный ресурс] // SHKOLO.RU. URL: http://shkolo.ru/ponyatie-informatsii/ (дата обращения: 12.04.2018).
-3. Данные [Электронный ресурс] // ВикипедиЯ – свободная энциклопедия (Wikipedia.org). URL: https://ru.wikipedia.org/wiki/Данные (дата обращения: 12.04.2018).
+2. Понятие информации [Электронный ресурс] // SHKOLO.RU. URL: http://shkolo.ru/ponyatie-informatsii/
+3. Данные [Электронный ресурс] // ВикипедиЯ – свободная энциклопедия (Wikipedia.org). URL: https://ru.wikipedia.org/wiki/Данные
