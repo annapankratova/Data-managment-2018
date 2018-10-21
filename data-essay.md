@@ -24,7 +24,7 @@
 Используемые данные не относятся к категории ограниченного доступа. 
 
 ### 5. Лицензия
-<a href='http://opendefinition.org/licenses/cc-by-sa/'> Creative Commons Attribution Share-Alike (cc-by-sa)</a><br>        
+<a href='http://opendefinition.org/licenses/cc-by-sa/'> Creative Commons Attribution Share-Alike (cc-by-sa)</a>        
 Автор: Кирнозова Ирина Романовна<br>          
 E-mail: i.kirnozova@yandex.ru<br>
 Facebook: https://www.facebook.com/ira.kirnozova
