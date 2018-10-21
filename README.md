@@ -1,6 +1,6 @@
-## Data-managment-2018
+# Data-managment-2018
 
-# Задание №1
+## Задание №1
 
 Поиск открытых данных.
 Тема: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834
@@ -13,10 +13,10 @@
 5. [ФОНД РАЗВИТИЯ ИНТЕРНЕТ-ИНИЦИАТИВ Бухгалтерская (финансовая) отчетность] – (https://www.rusprofile.ru/accounting?ogrn=1137799009589)
 
 
-# Задание №2
+## Задание №2
 Публикация открытых данных на платформе CKAN.
 Ссылка на hubofdata:
 
-# Задание №3
+## Задание №3
 Дата-эссе на основе открытых данных.
 Ссылка на дата-эссе:https://github.com/kirnozova/Data-managment-2018/edit/master/data-essay.md
