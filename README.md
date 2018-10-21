@@ -4,7 +4,7 @@
 
 Поиск открытых данных. <br>
 Тема: "<b> Финансирование ФРИИ. Как обеспечивает себя Акселератор?</b>" <br> 
-Ссылка: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834
+<i>Ссылка:</i> https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834
 
 <i>Источники:</i>
 1. [Российский рынок прямых и венчурных инвестиций в сегменте Интернет и ИТ 2016] – (https://www.iidf.ru/upload/iblock/60a/frii_venchur_otchet2016h1.pdf)
