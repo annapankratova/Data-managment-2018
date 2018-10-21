@@ -3,7 +3,8 @@
 ## Задание №1
 
 Поиск открытых данных.
-Тема: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834
+Тема: "Финансирование ФРИИ. Как обеспечивает себя Акселератор?"
+Ссылка: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834
 
 Источники:
 1. [Российский рынок прямых и венчурных инвестиций в сегменте Интернет и ИТ 2016] – (https://www.iidf.ru/upload/iblock/60a/frii_venchur_otchet2016h1.pdf)
