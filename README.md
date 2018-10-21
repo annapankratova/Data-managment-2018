@@ -6,7 +6,7 @@
 Тема: "<b> Финансирование ФРИИ. Как обеспечивает себя Акселератор?</b>" <br> 
 Ссылка: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834
 
-Источники:
+<i>Источники:</i>
 1. [Российский рынок прямых и венчурных инвестиций в сегменте Интернет и ИТ 2016] – (https://www.iidf.ru/upload/iblock/60a/frii_venchur_otchet2016h1.pdf)
 2. [Годовой отчет о деятельности Фонда развития интернет-инициатив (2017 год)] – (https://www.iidf.ru/upload/iblock/764/godovoi_otchet_2018.pdf)
 3. [Годовой отчет о деятельности Фонда развития интернет-инициатив (2016 год)]  – (https://www.iidf.ru/upload/iblock/3ad/godovoi_otchet_2016.pdf)
@@ -16,8 +16,8 @@
 
 ## Задание №2
 Публикация открытых данных на платформе CKAN. <br>
-Ссылка на hubofdata:
+<i>Ссылка на hubofdata</i>:
 
 ## Задание №3
 Дата-эссе на основе открытых данных. <br>
-Ссылка на дата-эссе:https://github.com/kirnozova/Data-managment-2018/edit/master/data-essay.md
+<i>Ссылка на дата-эссе:</i>https://github.com/kirnozova/Data-managment-2018/edit/master/data-essay.md
