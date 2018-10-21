@@ -15,7 +15,7 @@
 Используемые данные не относятся к категории ограниченного доступа. 
 
 ### 5. Лицензия
-<href='http://opendefinition.org/licenses/cc-by-sa/'>Creative Commons Attribution Share-Alike (cc-by-sa)>        
+<a href='http://opendefinition.org/licenses/cc-by-sa/'> Creative Commons Attribution Share-Alike (cc-by-sa)</a>        
 Кому писать? Кто автор материала?          
 Указывать емейл, социальные сети
 
